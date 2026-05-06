@@ -19,7 +19,7 @@ Ensure you have the following installed:
 
 ## Usage
 
-1. Clone or download this repository, or just download the script file `setup-streamlit.sh`
+1. Clone or download this repository, or just download the script file `setup-streamlit.sh`/`setup-streamlit.bat`
 2. Run the setup script:
 
    ```bash
