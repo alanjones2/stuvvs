@@ -81,5 +81,5 @@ echo Setting up main.py...
 :: 9. Open VSCode from the project directory
 echo Opening project in VSCode...
 code .
-
+uv run streamlit run main.py
 endlocal

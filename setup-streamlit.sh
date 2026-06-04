@@ -78,3 +78,4 @@ EOF
 # 9. Run vscode from the project directory
 echo "Opening project in VSCode..."
 code .
+uv run streamlit run main.py
